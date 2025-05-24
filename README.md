@@ -1,8 +1,3 @@
-# my-projects-
-
-
-
-
 import heapq
 
 def dijkstra(graph, start):
